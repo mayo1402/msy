@@ -1,11 +1,11 @@
 const alternatives = [
-    {text:"", images:"https://media.tenor.com/Kjn2wa6bgMoAAAAi/cute-cats.gif"},
-    {text:"please", images:"https://media1.tenor.com/m/_C06NtBa8pcAAAAC/mochi-poke-poke-cute-cat.gif"},
-    {text:"i'll be sad", images:"https://media1.tenor.com/m/La-Vncg9iAEAAAAC/cat-cats.gif"},
-    {text:"one last dance", images:"https://media1.tenor.com/m/MCLtDVYmaq8AAAAC/cat-please.gif"},
-    {text:"i'm crying", images:"https://media1.tenor.com/m/ojuHIy32mtwAAAAC/mudoh.gif"}
+    {text:"", images:"cat1.gif"},
+    {text:"please", images:"cat2.gif"},
+    {text:"i'll be sad", images:"cat4.gif"},
+    {text:"one last dance", images:"cat6.gif"},
+    {text:"i'm crying", images:"cat5.gif"}
 ];
-const ohyes = {text:"so sweet please ! one last dance", images:"https://media1.tenor.com/m/plvrL3peoBIAAAAC/mochi-cat.gif"};
+const ohyes = {text:"so sweet please ! one last dance", images:"cat3.gif"};
 const title = document.querySelector('.title');
 const text = document.querySelector('.text');
 const cat = document.querySelector('.cat');
