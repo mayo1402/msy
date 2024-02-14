@@ -40,7 +40,7 @@
   
   .button {
     background-color: var(--heart-color);
-    color: var(--white);
+    color: var(--black);
     border: none;
     padding: 10px 20px;
     text-align: center;
