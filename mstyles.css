@@ -5,7 +5,7 @@
         --white: #fff;
     }
   body {
-    font-family: Geraldine;
+    font-family: Georgia, serif;;
     background-color: var(--background-color);
     margin: 0;
     padding: 0;
