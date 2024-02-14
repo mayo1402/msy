@@ -1,9 +1,18 @@
 const alternatives = [
     {text:"", images:"cats3.gif"},
+    {text:"are you sure?" , images:"cats3.gif"},
+    {text:"really sure??" , images:"cats3.gif"},
+    {text:"are you positive???" , images:"cats3.gif"},
     {text:"please", images:"cats6.gif"},
-    {text:"i'll be sad", images:"cats2.gif"},
+    {text:"just tink about it" , images:"cats6.gif"},
+    {text:"if you say no , i'll be sad" , images:"cats2.gif"},
+    {text:"i'll be very sad", images:"cats2.gif"},
     {text:"i'll be very very sad", images:"cats8.gif"},
-    {text:"i'm crying", images:"cats7.gif"}
+    {text:"ok fine i'll stop asking...." , images:"cats9.gif"},
+    {text:"just kidding , PLEASE SAY YES" , images:"cats10.gif"},
+    {text:"I'LL BE VERY VERY VERY VERY SAD" , images:"cats8.gif"},
+    {text:"YO ARE BREAKING MY HEART NOW ;(" , images:"cats8.gif"},
+    {text:"I'M CRYING", images:"cats7.gif"}
 ];
 const ohyes = {text:"so sweet please ! talk to me ", images:"cats5.gif"};
 const title = document.querySelector('.title');
