@@ -1,11 +1,11 @@
 const alternatives = [
-    {text:"", images:"cat1.gif"},
-    {text:"please", images:"cat2.gif"},
-    {text:"i'll be sad", images:"cat4.gif"},
-    {text:"one last dance", images:"cat6.gif"},
-    {text:"i'm crying", images:"cat5.gif"}
+    {text:"", images:"cats1.gif"},
+    {text:"please", images:"cats2.gif"},
+    {text:"i'll be sad", images:"cats4.gif"},
+    {text:"one last dance", images:"cats6.gif"},
+    {text:"i'm crying", images:"cats5.gif"}
 ];
-const ohyes = {text:"so sweet please ! one last dance", images:"cat3.gif"};
+const ohyes = {text:"so sweet please ! one last dance", images:"cats3.gif"};
 const title = document.querySelector('.title');
 const text = document.querySelector('.text');
 const cat = document.querySelector('.cat');
