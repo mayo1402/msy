@@ -14,7 +14,7 @@ const alternatives = [
     {text:"YO ARE BREAKING MY HEART NOW ;(" , images:"cats8.gif"},
     {text:"I'M CRYING", images:"cats7.gif"}
 ];
-const ohyes = {text:"so sweet please ! talk to me ", images:"cats5.gif"};
+const ohyes = {text:"so sweet of you 😚😚", images:"cats5.gif"};
 const title = document.querySelector('.title');
 const text = document.querySelector('.text');
 const cat = document.querySelector('.cat');
